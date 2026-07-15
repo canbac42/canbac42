@@ -23,7 +23,7 @@ My foci are threefold:
 When I'm not working with data, I enjoy crosswords, word puzzles, and trivia. My hobbies help inform my work through a desire to put together many pieces to form an insightful whole.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://canbac42.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
