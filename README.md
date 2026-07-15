@@ -16,9 +16,9 @@
 I'm a data analyst passionate about helping businesses understand their data to make powerful and effective business decisions. I thrive in taking messy, complex datasets and turning them into actionable insights.
 
 My foci are threefold:
-  Generating dashboards that actually get used.
-  Creating automation that actually frees up time.
-  Developing documentation that actually provides understanding.
+- Generating dashboards that actually get used.
+- Creating automation that actually frees up time.
+- Developing documentation that actually provides understanding.
 
 When I'm not working with data, I enjoy crosswords, word puzzles, and trivia. My hobbies help inform my work through a desire to put together many pieces to form an insightful whole.
 
