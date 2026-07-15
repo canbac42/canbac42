@@ -51,5 +51,5 @@ When I'm not working with data, I enjoy crosswords, word puzzles, and trivia. My
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner-E0D222?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
