@@ -32,7 +32,8 @@ When I'm not working with data, I enjoy crosswords, word puzzles, and trivia. My
 
 ## 🌱 Currently Learning 
 
-- Deepening my experience with Python.
+- Deepening my experience with Python for data analysis.
+- Learning more about how to use Power Automate to provide efficient automation.
 
 ## 🛠️ Technical Skillset
 
